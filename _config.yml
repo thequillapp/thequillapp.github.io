@@ -38,8 +38,8 @@ features                                  :
     description                           : Svalinn makes it easy to track your daily habits and understand how they impact climate change.
     fontawesome_icon_name                 : globe-americas
 
-  - title                                 : Custom Themes and Alternate App Icons
-    description                           : Easily change the app's color theme and set unique alternate app icons.
+  - title                                 : Alternate app icons and themes
+    description                           : Easily change the app's color theme and set unique alternate app icons (Quill+ Required).
     fontawesome_icon_name                 : paint-brush
 
   - title                                 : Achievements
@@ -51,7 +51,7 @@ features                                  :
     fontawesome_icon_name                 : adjust
 
   - title                                 : Frequent Updates
-    description                           : Svalinn is frequently updated with new features and is guided by its community. Reach out on social media!
+    description                           : Quill is frequently updated with new features and is guided by its community. Reach out on social media!
     fontawesome_icon_name                 : wrench
 
   - title                                 : ... And Much More!
