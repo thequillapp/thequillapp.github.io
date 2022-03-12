@@ -34,17 +34,9 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Understand your Impact
-    description                           : Svalinn makes it easy to track your daily habits and understand how they impact climate change.
-    fontawesome_icon_name                 : globe-americas
-
   - title                                 : Alternate app icons and themes
     description                           : Easily change the app's color theme and set unique alternate app icons (Quill+ Required).
     fontawesome_icon_name                 : paint-brush
-
-  - title                                 : Achievements
-    description                           : Unlock fun achievements as you use the app. Can you unlock them all?
-    fontawesome_icon_name                 : star
 
   - title                                 : Beautiful Dark Mode
     description                           : Switch to the app's dark appearance for a beautiful dark mode.
@@ -53,10 +45,6 @@ features                                  :
   - title                                 : Frequent Updates
     description                           : Quill is frequently updated with new features and is guided by its community. Reach out on social media!
     fontawesome_icon_name                 : wrench
-
-  - title                                 : ... And Much More!
-    description                           : These are just some of the few fantastic features of Quill with many more on the way.
-    fontawesome_icon_name                 : bars
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
