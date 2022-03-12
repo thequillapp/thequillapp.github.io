@@ -3,63 +3,73 @@ layout: page
 title: What's New
 include_in_header: true
 ---
+### `August 18, 2021`
+# **Version 1.1.1**
 
-# Changelog
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
-
-<br>
-
-### `Latest`
-# **Version 2.0**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
-
-#### Bug Fixes
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+This update includes various bug fixes.
 
 <br>
 
-### **Version 2.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+### `August 9, 2021`
+# **Version 1.1.0**
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+This update to Svalinn includes many exciting new features:
 
-<br>
+- Habits can now be selected as favorites and can be accessed under the new favorites tab
+- Confetti now flies down the screen when reaching 100% of your daily goal
+- A new medium-sized home screen widget has been added
+- Widgets now are colored with the selected theme and have a new rounded font
+- There is now an option to support development through an in-app purchase tip jar. By making at least one tip, you unlock all new themes and alternate app icons. Any support is truly appreciated!
 
-________
-<br>
-
-### `Initial Release`
-# **Version 1.0**
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
+In addition to these new features, this update includes many bug fixes.
 
 <br>
 
-## **Version 1.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+### `July 23, 2021`
+# **Version 1.0.5**
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+This update includes bug fixes and performance improvements.
 
 <br>
 
-## Version 1.0.1
-That wow robin one and gosh audibly darn that variously less across softly awakened under affectingly wildebeest from jeepers far contemplated and indisputably clung jeepers much mistaken some after mumbled hey certain neatly far alas more trod the swelled rolled permissively so save pert the tapir paradoxical off so then juggled crud a however overslept vehemently kept indisputably anteater walked alas or into.
+### `July 20, 2021`
+# **Version 1.0.4**
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+This update includes bug fixes and performance improvements.
 
-#### Bug Fixes
-- Improved user sign up experience.
-- Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
+<br>
+
+### `July 17, 2021`
+# **Version 1.0.3**
+
+This update includes bug fixes and performance improvements.
+
+<br>
+
+### `July 15, 2021`
+# **Version 1.0.2**
+
+This update includes minor fixes and improvements:
+
+- Added the ability to override the system appearance
+- Changed notification details
+- Search filter is no longer case-sensitive
+- Fixed an issue where accidental tasks could not be removed
+- Fixed an issue with the "suggest a feature" link not working
+
+<br>
+
+### `July 14, 2021`
+# **Version 1.0.1**
+
+This update includes minor fixes and improvements:
+
+- Added the ability to remove accidentally tracked habits
+- Added the option to open the track tab on the "recent" view
+- Added 2 new alternate app icons
+- Renamed alternate app icons
+- Added the option for kilometers in the baseline questionnaire
+- Fixed an issue with the splash screen not centering
+- Fixed an issue with the appearance of shadows in achievement pop-ups
 
 <br>
