@@ -10,7 +10,7 @@ August 5 2021
 # Terms Of Use
 <br>
 
- These terms and conditions ("Agreement") set forth the general terms and conditions of your use of the "Svalinn" mobile application ("Mobile Application" or "Service") and any of its related products and services (collectively, "Services"). This Agreement is legally binding between you ("User", "you" or "your") and this Mobile Application developer ("Operator", "we", "us" or "our"). By accessing and using the Mobile Application and Services, you acknowledge that you have read, understood, and agree to be bound by the terms of this Agreement. If you are entering into this Agreement on behalf of a business or other legal entity, you represent that you have the authority to bind such entity to this Agreement, in which case the terms "User", "you" or "your" shall refer to such entity. If you do not have such authority, or if you do not agree with the terms of this Agreement, you must not accept this Agreement and may not access and use the Mobile Application and Services. You acknowledge that this Agreement is a contract between you and the Operator, even though it is electronic and is not physically signed by you, and it governs your use of the Mobile Application and Services.
+ These terms and conditions ("Agreement") set forth the general terms and conditions of your use of the "Quill" mobile application ("Mobile Application" or "Service") and any of its related products and services (collectively, "Services"). This Agreement is legally binding between you ("User", "you" or "your") and Jack Minehan ("Operator", "we", "us" or "our"). By accessing and using the Mobile Application and Services, you acknowledge that you have read, understood, and agree to be bound by the terms of this Agreement. If you are entering into this Agreement on behalf of a business or other legal entity, you represent that you have the authority to bind such entity to this Agreement, in which case the terms "User", "you" or "your" shall refer to such entity. If you do not have such authority, or if you do not agree with the terms of this Agreement, you must not accept this Agreement and may not access and use the Mobile Application and Services. You acknowledge that this Agreement is a contract between you and the Operator, even though it is electronic and is not physically signed by you, and it governs your use of the Mobile Application and Services.
 
  <br>
 
@@ -58,7 +58,7 @@ The formation, interpretation, and performance of this Agreement and any dispute
 
 ## In-App Purchases
 <br>
-Optional in-app purchase "Tip Jar" is available. Your in-app purchase will be charged to your iTunes account at confirmation of purchase. All purchases may be final and non-refundable. By accepting these terms, you agree that Svalinn is not required to provide a refund for any reason. Svalinn may change, modify, or eliminate features of the in-app purchase at any time, with or without notice. You agree that Svalinn will bear no liability to you or any third party if we do so.
+Optional in-app purchase "Quill+" is available. Your in-app purchase will be charged to your iTunes account at confirmation of purchase. All purchases may be final and non-refundable. By accepting these terms, you agree that Svalinn is not required to provide a refund for any reason. Jack Minehan may change, modify, or eliminate features of the in-app purchase at any time, with or without notice. You agree that Jack Minehan will bear no liability to you or any third party if we do so.
 
 <br>
 
@@ -83,6 +83,6 @@ You acknowledge that you have read this Agreement and agree to all its terms and
 ## Contacting Us
 <br>
 
-If you would like to contact us to understand more about this Agreement or wish to contact us concerning any matter relating to it, you may send an email to contactsvalinn@gmail.com.
+If you would like to contact us to understand more about this Agreement or wish to contact us concerning any matter relating to it, you may send an email to contactquillapp@gmail.com.
 
 <br>
