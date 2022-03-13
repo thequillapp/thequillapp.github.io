@@ -41,11 +41,11 @@ How do I exercise my rights? The easiest way to exercise your rights is by conta
 
 <br>
 
-#1. WHAT INFORMATION DO WE COLLECT?
+# 1. WHAT INFORMATION DO WE COLLECT?
 
 <br>
 
-##Personal information you disclose to us
+## Personal information you disclose to us
 
 In Short: We collect personal information that you provide to us.
 
@@ -69,7 +69,7 @@ This information is primarily needed to maintain the security and operation of o
 
 All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.
 
-##Information automatically collected
+## Information automatically collected
 
 In Short: Some information — such as your device characteristics — is collected automatically when you visit our Services.
 
@@ -83,7 +83,7 @@ The information we collect includes:
 
 <br>
 
-#2. HOW DO WE PROCESS YOUR INFORMATION?
+# 2. HOW DO WE PROCESS YOUR INFORMATION?
 
 <br>
 
@@ -100,7 +100,7 @@ To save or protect an individual's vital interest. We may process your informati
 
 <br>
 
-#3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?
+# 3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?
 
 <br>
 
@@ -154,7 +154,7 @@ In some exceptional cases, we may be legally permitted under applicable law to p
 
 <br>
 
-#4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
+# 4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
 
 <br>
 
@@ -168,7 +168,7 @@ We may need to share your personal information in the following situations:
 
 <br>
 
-#5. HOW DO WE HANDLE YOUR SOCIAL LOGINS?
+# 5. HOW DO WE HANDLE YOUR SOCIAL LOGINS?
 
 <br>
 
@@ -180,7 +180,7 @@ We will use the information we receive only for the purposes that are described 
 
 <br>
 
-#6. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?
+# 6. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?
 
 <br>
 
@@ -196,7 +196,7 @@ We have implemented measures to protect your personal information, including by 
 
 <br>
 
-#7. HOW LONG DO WE KEEP YOUR INFORMATION?
+# 7. HOW LONG DO WE KEEP YOUR INFORMATION?
 
 <br>
 
@@ -208,7 +208,7 @@ When we have no ongoing legitimate business need to process your personal inform
 
 <br>
 
-#8. HOW DO WE KEEP YOUR INFORMATION SAFE?
+# 8. HOW DO WE KEEP YOUR INFORMATION SAFE?
 
 <br>
 
@@ -218,7 +218,7 @@ We have implemented appropriate and reasonable technical and organizational secu
 
 <br>
 
-#9. WHAT ARE YOUR PRIVACY RIGHTS?
+# 9. WHAT ARE YOUR PRIVACY RIGHTS?
 
 <br>
 
@@ -235,7 +235,7 @@ Withdrawing your consent: If we are relying on your consent to process your pers
 
 However, please note that this will not affect the lawfulness of the processing before its withdrawal, nor when applicable law allows, will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
 
-##Account Information
+## Account Information
 
 If you would at any time like to review or change the information in your account or terminate your account, you can:
 
@@ -247,7 +247,7 @@ If you have questions or comments about your privacy rights, you may email us at
 
 <br>
 
-#10. CONTROLS FOR DO-NOT-TRACK FEATURES
+# 10. CONTROLS FOR DO-NOT-TRACK FEATURES
 
 <br>
 
@@ -255,7 +255,7 @@ Most web browsers and some mobile operating systems and mobile applications incl
 
 <br>
 
-#11. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+# 11. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
 
 <br>
 
@@ -265,7 +265,7 @@ California Civil Code Section 1798.83, also known as the "Shine The Light" law, 
 
 If you are under 18 years of age, reside in California, and have a registered account with Services, you have the right to request removal of unwanted data that you publicly post on the Services. To request removal of such data, please contact us using the contact information provided below and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Services, but please be aware that the data may not be completely or comprehensively removed from all our systems (e.g., backups, etc.).
 
-##CCPA Privacy Notice
+## CCPA Privacy Notice
 
 The California Code of Regulations defines a "resident" as:
 
@@ -360,7 +360,7 @@ To exercise these rights, you can contact us by email at contactquillapp@gmail.c
 
 <br>
 
-#12. DO WE MAKE UPDATES TO THIS NOTICE?
+# 12. DO WE MAKE UPDATES TO THIS NOTICE?
 
 <br>
 
@@ -370,7 +370,7 @@ We may update this privacy notice from time to time. The updated version will be
 
 <br>
 
-#13. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+# 13. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
 <br>
 
@@ -378,7 +378,7 @@ If you have questions or comments about this notice, you may email us at contact
 
 <br>
 
-#14. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
+# 14. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
 <br>
 
