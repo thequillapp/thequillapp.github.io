@@ -87,7 +87,7 @@ The information we collect includes:
 
 <br>
 
-In Short: We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent.
+In Short: We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. Quill is hosted with Google Firebase. By using Quill, you accept the Firebase privacy policy found here: https://firebase.google.com/support/privacy/.
 
 We process your personal information for a variety of reasons, depending on how you interact with our Services, including:
 
